@@ -5,7 +5,7 @@ function Loink(props: { children: React.ReactNode; href: string }) {
   return (
     <a
       href={props.href}
-      className="text-blue-600 underline decoration-2 underline-offset-4 visited:text-purple-600 hover:text-blue-800 hover:visited:text-purple-800 dark:text-blue-500 dark:visited:text-purple-500 dark:hover:text-blue-700 dark:hover:visited:text-purple-700"
+      className="text-blue-600 underline decoration-2 underline-offset-4 visited:text-purple-600 hover:text-blue-800 hover:visited:text-purple-800 dark:text-blue-400 dark:visited:text-purple-400 dark:hover:text-blue-600 dark:hover:visited:text-purple-600"
       target="_blank"
       rel="noopener noreferrer"
     >
