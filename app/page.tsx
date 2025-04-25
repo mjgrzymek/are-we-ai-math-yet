@@ -433,7 +433,10 @@ export default function Home() {
       <footer className="mt-10 border-t border-gray-200 pb-4 text-sm dark:border-gray-700">
         <div className="flex flex-col gap-3 px-4 py-6 text-center">
           <div className="">
-            Contribute on <Loink href="TODO">GitHub</Loink>
+            Contribute on{" "}
+            <Loink href="https://github.com/mjgrzymek/are-we-ai-math-yet">
+              GitHub
+            </Loink>
           </div>
           <div className="">
             Made by <Loink href="https://x.com/MJGrzymek">MJ Grzymek</Loink>
