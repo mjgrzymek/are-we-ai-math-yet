@@ -204,9 +204,9 @@ export default function Home() {
           <h2>MiniF2F</h2>
           <p>
             <Loink href="https://github.com/openai/miniF2F">MiniF2F</Loink> is a
-            benchmark of AI formal mathematics. It consists of 244 "exercise
+            benchmark of AI formal mathematics. It consists of 244 {'"'}exercise
             statements from olympiads (AMC, AIME, IMO) as well as high-school
-            and undergraduate maths classes".
+            and undergraduate maths classes{'"'}.
           </p>
           <p>
             The current state of the art seems to be{" "}
